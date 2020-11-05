@@ -1,0 +1,28 @@
+domain: https://schemas.truecrimedaily.com
+
+namespaces:
+  - tcd:apollo
+  - tcd:boost
+  - tcd:canvas
+  - tcd:curator
+  - tcd:dam
+  - tcd:iam
+  - tcd:news
+  - tcd:notify
+  - tcd:ovp
+  - tcd:people
+  - tcd:sys
+  - tcd:taxonomy
+
+languages:
+  php:
+    output: ./build/php/src
+
+  js:
+    output: ./build/js/src
+    packages:
+      tcd: '@tcd/schemas'
+
+  json-schema:
+    include_all: true
+    output: ./gh-pages/json-schema
