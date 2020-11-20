@@ -10,7 +10,7 @@ const plugins = [
         './build/js/src',
       ],
       alias: {
-        '@tcd/schemas': './build/js/src',
+        '@wbtcd/schemas': './build/js/src',
       },
     },
   ],

@@ -21,7 +21,7 @@ languages:
   js:
     output: ./build/js/src
     packages:
-      tcd: '@tcd/schemas'
+      tcd: '@wbtcd/schemas'
 
   json-schema:
     include_all: true
