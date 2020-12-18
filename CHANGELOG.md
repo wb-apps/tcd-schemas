@@ -4,7 +4,7 @@
 ## v0.1.1
 * __Modify Schemas:__
   * `tcd:news:node:article`
-    * Add field `geo_location`
+    * Add field `geo_point`
 
 
 ## v0.1.0

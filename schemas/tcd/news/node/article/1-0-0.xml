@@ -5,7 +5,7 @@
 
   <schema id="pbj:tcd:news:node:article:1-0-0">
     <fields>
-      <field name="geo_location" type="geo-point"/>
+      <field name="geo_point" type="geo-point"/>
     </fields>
 
     <mixins>

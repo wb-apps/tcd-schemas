@@ -38,7 +38,7 @@ export default class ArticleV1 extends Message {
   static defineSchema() {
     return new Schema('pbj:tcd:news:node:article:1-0-0', ArticleV1,
       [
-        Fb.create('geo_location', T.GeoPointType.create())
+        Fb.create('geo_point', T.GeoPointType.create())
           .build(),
       ],
       [

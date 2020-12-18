@@ -88,7 +88,7 @@ final class ArticleV1 extends AbstractMessage implements
     {
         return new Schema('pbj:tcd:news:node:article:1-0-0', __CLASS__,
             [
-                Fb::create('geo_location', T\GeoPointType::create())
+                Fb::create('geo_point', T\GeoPointType::create())
                     ->build(),
             ],
             [

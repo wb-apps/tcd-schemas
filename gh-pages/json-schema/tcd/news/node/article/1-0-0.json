@@ -670,7 +670,7 @@
         "format": "hashtag"
       }
     },
-    "geo_location": {
+    "geo_point": {
       "type": "object",
       "properties": {
         "type": {
