@@ -1,6 +1,6 @@
 {
   "name": "@wbtcd/schemas",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Schemas for all TCD apps and components.",
   "repository": {
     "type": "git",

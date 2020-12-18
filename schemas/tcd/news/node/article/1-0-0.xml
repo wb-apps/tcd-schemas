@@ -4,6 +4,10 @@
     xsi:schemaLocation="http://gdbots.io/pbj/xsd http://gdbots.io/pbj/xsd/schema.xsd">
 
   <schema id="pbj:tcd:news:node:article:1-0-0">
+    <fields>
+      <field name="geo_location" type="geo-point"/>
+    </fields>
+
     <mixins>
       <curie-major>gdbots:ncr:mixin:node:v1</curie-major>
       <curie-major>triniti:news:mixin:article:v1</curie-major>
