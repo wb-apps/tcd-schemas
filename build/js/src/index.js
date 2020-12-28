@@ -118,6 +118,7 @@ import '@wbtcd/schemas/tcd/canvas/block/AudioBlockV1';
 import '@wbtcd/schemas/tcd/canvas/block/CodeBlockV1';
 import '@wbtcd/schemas/tcd/canvas/block/DividerBlockV1';
 import '@wbtcd/schemas/tcd/canvas/block/DocumentBlockV1';
+import '@wbtcd/schemas/tcd/canvas/block/EmeFormBlockV1';
 import '@wbtcd/schemas/tcd/canvas/block/FacebookPostBlockV1';
 import '@wbtcd/schemas/tcd/canvas/block/FacebookVideoBlockV1';
 import '@wbtcd/schemas/tcd/canvas/block/GalleryBlockV1';
