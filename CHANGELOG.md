@@ -2,9 +2,12 @@
 
 
 ## v0.1.1
+* Use `triniti/schemas` v1.1.14.
+* __Add Schemas:__
+  * `acme:canvas:block:eme-form-block`
 * __Modify Schemas:__
   * `tcd:news:node:article`
-    * Add field `geo_point`
+    * Add `geo_point` geo-point field.
 
 
 ## v0.1.0
