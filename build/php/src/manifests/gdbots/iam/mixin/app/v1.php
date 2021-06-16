@@ -18,4 +18,5 @@ return [
     'tcd:iam:node:ios-app:v1',
     'tcd:iam:node:slack-app:v1',
     'tcd:iam:node:sms-app:v1',
+    'tcd:iam:node:twitter-app:v1',
 ];

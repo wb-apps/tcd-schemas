@@ -18,4 +18,5 @@ return [
     'tcd:notify:node:ios-notification:v1',
     'tcd:notify:node:slack-notification:v1',
     'tcd:notify:node:sms-notification:v1',
+    'tcd:notify:node:twitter-notification:v1',
 ];
